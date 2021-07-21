@@ -73,7 +73,7 @@ Source: /table_creation/article4
 
 <img width="960" alt="21" src="https://user-images.githubusercontent.com/19508013/126554105-5553b9f2-ed2e-46c1-b783-11bb1a37cb47.png">
 
-<img width="963" alt="22" src="https://user-images.githubusercontent.com/19508013/126554106-b71a0fa8-27c7-4e3b-bc43-1e13290ee9a0.png">
+<img width="962" alt="22_2" src="https://user-images.githubusercontent.com/19508013/126555089-7a75fded-4813-41ce-b9b0-a9a10bf6c8c5.png">
 
 <img width="962" alt="23" src="https://user-images.githubusercontent.com/19508013/126554108-018d54fc-4446-402e-91a5-2584b586ba0f.png">
 
@@ -81,11 +81,11 @@ Source: /table_creation/article4
 
 <img width="956" alt="25" src="https://user-images.githubusercontent.com/19508013/126554112-854ec944-a245-446c-884d-771ae2123f8d.png">
 
-<img width="962" alt="26" src="https://user-images.githubusercontent.com/19508013/126554113-18b1997d-4c5d-4555-8991-a0b76ec5d1d5.png">
+<img width="960" alt="26_2" src="https://user-images.githubusercontent.com/19508013/126555163-23762187-2d98-41df-a12b-f7e53b2ae5b2.png">
 
 <img width="959" alt="27" src="https://user-images.githubusercontent.com/19508013/126554116-9d9fe80a-55b8-40d3-a0c7-fc0b626ff3c2.png">
 
-<img width="964" alt="28" src="https://user-images.githubusercontent.com/19508013/126554111-e7b712d4-6161-48f8-bb55-d1d8bedeb99e.png">
+<img width="961" alt="28_2" src="https://user-images.githubusercontent.com/19508013/126555172-c12b4dfc-a883-4846-a270-a255b12e2b1d.png">
 
 <img width="962" alt="29" src="https://user-images.githubusercontent.com/19508013/126554117-0387685c-fe08-471b-b92b-078b3a0b4571.png">
 
