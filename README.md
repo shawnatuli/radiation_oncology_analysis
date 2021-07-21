@@ -67,7 +67,7 @@ Source: /table_creation/article4
 
 <img width="961" alt="18" src="https://user-images.githubusercontent.com/19508013/126554102-978a142f-15a4-4604-8305-d2a352df8089.png">
 
-<img width="958" alt="19" src="https://user-images.githubusercontent.com/19508013/126554103-648226ff-1bc9-442f-a656-2e51084aa6a5.png">
+<img width="962" alt="Screen Shot 2021-07-21 at 4 56 54 PM" src="https://user-images.githubusercontent.com/19508013/126574079-d4839f8c-abd1-4f7c-8f71-8d751982c874.png">
 
 <img width="963" alt="20" src="https://user-images.githubusercontent.com/19508013/126554104-6045fcef-7e00-43e2-8601-5e422bc60655.png">
 
