@@ -35,11 +35,11 @@ Source: /table_creation/article4
 
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/19508013/126551841-6a29bc18-8cb7-46d4-895f-56f3488182ae.png">
 
-<img width="961" alt="3" src="https://user-images.githubusercontent.com/19508013/126551857-3e7efe4e-078c-4a53-a64e-3bd3dcafb2f5.png">
+<img width="961" alt="Screen Shot 2021-07-21 at 2 29 35 PM" src="https://user-images.githubusercontent.com/19508013/126573821-241840cb-0c4c-42e7-8c42-1339bac6d20f.png">
 
-<img width="956" alt="4" src="https://user-images.githubusercontent.com/19508013/126551869-2a2d7dcb-9b66-4b2e-a3d6-a885f0b52304.png">
+<img width="962" alt="Screen Shot 2021-07-21 at 2 29 45 PM" src="https://user-images.githubusercontent.com/19508013/126573917-e051f5be-e71c-414a-adbf-01d303256beb.png">
 
-<img width="961" alt="5" src="https://user-images.githubusercontent.com/19508013/126551896-aad0536b-18c2-41f0-a846-5a1e284d3867.png">
+<img width="962" alt="Screen Shot 2021-07-21 at 2 29 55 PM" src="https://user-images.githubusercontent.com/19508013/126573930-1982b7f8-a0d7-49ab-881d-c112773e4958.png">
 
 <img width="962" alt="6" src="https://user-images.githubusercontent.com/19508013/126551910-bec60e82-f87c-48cd-9054-b868363aef48.png">
 
@@ -95,4 +95,4 @@ Source: /table_creation/article4
 
 <img width="962" alt="32" src="https://user-images.githubusercontent.com/19508013/126554150-c4039223-45d1-419b-a9ff-5ed0e233e6f9.png">
 
-<img width="962" alt="33" src="https://user-images.githubusercontent.com/19508013/126554153-c778e009-53e0-43ae-96a3-17787db1b4e2.png">
+<img width="962" alt="Screen Shot 2021-07-21 at 2 39 55 PM" src="https://user-images.githubusercontent.com/19508013/126573949-46978587-58c1-49db-a9f3-528c931bd453.png">
