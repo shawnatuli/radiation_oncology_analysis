@@ -33,6 +33,14 @@ Q: What is the role for Neoadjuvant chemotherapy and less invasive surgery in ma
 
 Source: /table_creation/article4
 
+# Article 5
+Q: What is the five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana?
+
+"Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana"
+
+https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w
+https://pubmed.ncbi.nlm.nih.gov/34344430/
+
 <img width="961" alt="1" src="https://user-images.githubusercontent.com/19508013/126551826-69c5e469-cc84-4dc0-9f9b-2bec80aab0ae.png">
 
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/19508013/126551841-6a29bc18-8cb7-46d4-895f-56f3488182ae.png">
