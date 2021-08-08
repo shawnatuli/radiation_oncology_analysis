@@ -15,6 +15,8 @@ Q: What are the treatment toxicities of cervical cancer with or without HIV infe
 
 "Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020"
 
+https://www.estro.org/Congresses/ESTRO-2021/888/gynaecological-endometrium-cervix-vagina-vulva-/4774/treatmenttoxicitiesofcervicalcancerwithorwithouthi
+
 Source: /table_creation/article2
 
 # Article 3
