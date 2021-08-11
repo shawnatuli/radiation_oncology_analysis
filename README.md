@@ -40,9 +40,9 @@ Q: What is the five-year overall survival following chemoradiation therapy for l
 
 https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w
 
-https://pubmed.ncbi.nlm.nih.gov/34344430/
-
 https://europepmc.org/article/pmc/pmc8330031
+
+https://pubmed.ncbi.nlm.nih.gov/34344430/
 
 Source: /table_creation/article5
 
