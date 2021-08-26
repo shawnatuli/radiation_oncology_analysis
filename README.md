@@ -3,6 +3,9 @@ Associated with Donald Bren School of Information and Computer Sciences at the U
 
 Data sourced from Penn Medicine Radiation Oncology REDCap data.
 
+# Google Scholar
+https://scholar.google.co.uk/citations?user=72mqLEoAAAAJ&hl=en&oi=sra
+
 # 1. American Society for Radiation Oncology 
 Q: What are the stage and outcomes of cervival cancer with or without HIV infection in Botswana 2013-2020? 
 
