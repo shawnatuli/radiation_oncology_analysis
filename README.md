@@ -15,7 +15,7 @@ Q: What are the treatment toxicities of cervical cancer with or without HIV infe
 
 "Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020"
 
-Presentation PO-1315 https://www.estro.org/Congresses/ESTRO-2021/888/gynaecological-endometrium-cervix-vagina-vulva-/4774/treatmenttoxicitiesofcervicalcancerwithorwithouthi
+ESTRO E-Poster PO-1315 Presentation https://www.estro.org/Congresses/ESTRO-2021/888/gynaecological-endometrium-cervix-vagina-vulva-/4774/treatmenttoxicitiesofcervicalcancerwithorwithouthi
 
 ESTRO 2021 Abstract Book https://cld.bz/3g6jJy/1092/
 
@@ -33,7 +33,7 @@ Q: What is the role for Neoadjuvant chemotherapy and less invasive surgery in ma
 
 "Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in Botswana"
 
-IGCS E-Poster #372 Viewing (page 78) https://cdn.ymaws.com/members.igcs.org/resource/resmgr/igcs_2021/IGCS21_EPoster_Viewing.pdf
+IGCS E-Poster #372 Presentation (page 78) https://cdn.ymaws.com/members.igcs.org/resource/resmgr/igcs_2021/IGCS21_EPoster_Viewing.pdf
 
 IGCS 2021 Program Book (page 35) https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f
 
@@ -44,13 +44,13 @@ Q: What is the five-year overall survival following chemoradiation therapy for l
 
 "Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana"
 
-https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w
+Infectious Agents and Cancer https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w
 
-https://pubmed.ncbi.nlm.nih.gov/34344430/
+PubMed https://pubmed.ncbi.nlm.nih.gov/34344430/
 
-https://link.springer.com/article/10.1186/s13027-021-00389-w
+SpringerLink https://link.springer.com/article/10.1186/s13027-021-00389-w
 
-https://europepmc.org/article/pmc/pmc8330031
+Europe PMC https://europepmc.org/article/pmc/pmc8330031
 
 Source: /table_creation/article5
 
