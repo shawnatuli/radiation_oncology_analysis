@@ -44,7 +44,7 @@ Q: What is the role for Neoadjuvant chemotherapy and less invasive surgery in ma
 
 IGCS E-Poster #372 Presentation (page 78) https://cdn.ymaws.com/members.igcs.org/resource/resmgr/igcs_2021/IGCS21_EPoster_Viewing.pdf
 
-IGCS 2021 Program Book (page 18) https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f
+IGCS 2021 Program Book (page 19) https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f
 
 [IGCS E-Poster #372.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089474/IGCS.E-Poster.372.pdf)
 
