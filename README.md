@@ -1,4 +1,4 @@
-# Radiation Oncology Analysis ⚕️☢️
+# Radiation Oncology Analytics ⚕️☢️
 Associated with Donald Bren School of Information and Computer Sciences at the University of California, Irvine, Penn Medicine: University Health System, and Perelman School of Medicine at the University of Pennsylvania.
 
 Data sourced from Penn Medicine Radiation Oncology REDCap data.
