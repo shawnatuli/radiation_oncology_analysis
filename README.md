@@ -42,9 +42,10 @@ Q: What is the role for Neoadjuvant chemotherapy and less invasive surgery in ma
 
 "Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in Botswana"
 
-IGCS E-Poster #372 Presentation (page 78) https://cdn.ymaws.com/members.igcs.org/resource/resmgr/igcs_2021/IGCS21_EPoster_Viewing.pdf
+∙ IGCS E-Poster #372 Presentation (page 78) https://cdn.ymaws.com/members.igcs.org/resource/resmgr/igcs_2021/IGCS21_EPoster_Viewing.pdf
 
-IGCS 2021 Program Book (page 19) https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f
+∙ IGCS 2021 Program Book (page 19)
+https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f
 
 [IGCS E-Poster #372.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089474/IGCS.E-Poster.372.pdf)
 
@@ -55,15 +56,19 @@ Q: What is the five-year overall survival following chemoradiation therapy for l
 
 "Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana"
 
-Stanford Libraries https://searchworks.stanford.edu/articles/edsdoj__edsdoj.42e5306f8b524b51b459798dbfcd6181, https://searchworks.stanford.edu/articles/edssjs__edssjs.CF93CCBA
+• Stanford Libraries https://searchworks.stanford.edu/articles/edsdoj__edsdoj.42e5306f8b524b51b459798dbfcd6181 https://searchworks.stanford.edu/articles/edssjs__edssjs.CF93CCBA
 
-Infectious Agents and Cancer https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w
+• Infectious Agents and Cancer
+https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w
 
-PubMed https://pubmed.ncbi.nlm.nih.gov/34344430/
+• PubMed
+https://pubmed.ncbi.nlm.nih.gov/34344430/
 
-SpringerLink https://link.springer.com/article/10.1186/s13027-021-00389-w
+• SpringerLink
+https://link.springer.com/article/10.1186/s13027-021-00389-w
 
-Europe PMC https://europepmc.org/article/pmc/pmc8330031
+• Europe PMC
+https://europepmc.org/article/pmc/pmc8330031
 
 Source: /table_creation/article5
 
