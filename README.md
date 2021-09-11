@@ -11,9 +11,9 @@ Q: What are the stage and outcomes of cervival cancer with or without HIV infect
 
 "Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020"
 
-ASTRO E-Poster #3294 Presentation
+∙ ASTRO E-Poster #3294 Presentation
 
-[ASTRO E-Poster #3294.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089467/ASTRO.E-Poster.3294.pdf)
+∙ [ASTRO E-Poster #3294.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089467/ASTRO.E-Poster.3294.pdf)
 
 Source: /table_creation/article1
 
@@ -28,7 +28,7 @@ https://www.estro.org/Congresses/ESTRO-2021/888/gynaecological-endometrium-cervi
 ∙ ESTRO 2021 Abstract Book (pages 1093-1094)
 https://cld.bz/3g6jJy/1092/
 
-[ESTRO E-Poster PO-1315.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089470/ESTRO.E-Poster.PO-1315.pdf)
+∙ [ESTRO E-Poster PO-1315.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089470/ESTRO.E-Poster.PO-1315.pdf)
 
 Source: /table_creation/article2
 
@@ -49,7 +49,7 @@ Q: What is the role for Neoadjuvant chemotherapy and less invasive surgery in ma
 ∙ IGCS 2021 Program Book (page 19)
 https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f
 
-[IGCS E-Poster #372.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089474/IGCS.E-Poster.372.pdf)
+∙ [IGCS E-Poster #372.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089474/IGCS.E-Poster.372.pdf)
 
 Source: /table_creation/article4
 
