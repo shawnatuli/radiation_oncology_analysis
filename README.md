@@ -55,7 +55,7 @@ Q: What is the five-year overall survival following chemoradiation therapy for l
 
 "Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana"
 
-Stanford Libraries https://searchworks.stanford.edu/articles/edsdoj__edsdoj.42e5306f8b524b51b459798dbfcd6181
+Stanford Libraries https://searchworks.stanford.edu/articles/edsdoj__edsdoj.42e5306f8b524b51b459798dbfcd6181, https://searchworks.stanford.edu/articles/edssjs__edssjs.CF93CCBA
 
 Infectious Agents and Cancer https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w
 
