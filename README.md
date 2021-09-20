@@ -32,14 +32,7 @@ https://cld.bz/3g6jJy/1092/
 
 Source: /table_creation/article2
 
-# 3.
-Q: What are the treatment delays of cervical cancer with or without HIV infection in Botswana 2013-2020?
-
-"Treatment delays of cervical cancer with or without human immunodeficiency virus infection in Botswana 2013-2020"
-
-Source: /table_creation/article3
-
-# 4. International Gynecologic Cancer Society 
+# 3. International Gynecologic Cancer Society 
 Q: What is the role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in Botswana?
 
 "Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in Botswana"
@@ -53,7 +46,7 @@ https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f
 
 Source: /table_creation/article4
 
-# 5. Infectious Agents and Cancer
+# 4. Infectious Agents and Cancer
 Q: What is the five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana?
 
 "Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana"
@@ -71,8 +64,6 @@ https://link.springer.com/article/10.1186/s13027-021-00389-w
 
 • Europe PMC
 https://europepmc.org/article/pmc/pmc8330031
-
-Source: /table_creation/article5
 
 # Presentation
 
