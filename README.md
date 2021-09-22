@@ -15,6 +15,8 @@ Q: What are the stage and outcomes of cervival cancer with or without HIV infect
 
 ∙ [ASTRO E-Poster #3294.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089467/ASTRO.E-Poster.3294.pdf)
 
+∙ [PURM Poster.pdf](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analytics/files/7207351/PURM.Poster.pdf)
+
 Source: /table_creation/article1
 
 # 2. European Society for Radiotherapy and Oncology
@@ -51,18 +53,18 @@ Q: What is the five-year overall survival following chemoradiation therapy for l
 
 "Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana"
 
-• Stanford Libraries https://searchworks.stanford.edu/articles/edsdoj__edsdoj.42e5306f8b524b51b459798dbfcd6181, https://searchworks.stanford.edu/articles/edssjs__edssjs.CF93CCBA
+∙ Stanford Libraries https://searchworks.stanford.edu/articles/edsdoj__edsdoj.42e5306f8b524b51b459798dbfcd6181, https://searchworks.stanford.edu/articles/edssjs__edssjs.CF93CCBA
 
-• Infectious Agents and Cancer
+∙ Infectious Agents and Cancer
 https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w
 
-• PubMed
+∙ PubMed
 https://pubmed.ncbi.nlm.nih.gov/34344430/
 
-• SpringerLink
+∙ SpringerLink
 https://link.springer.com/article/10.1186/s13027-021-00389-w
 
-• Europe PMC
+∙ Europe PMC
 https://europepmc.org/article/pmc/pmc8330031
 
 # Presentation
